@@ -1,0 +1,7 @@
+../Core/Src/test_frames.c:120:17:rng_next	1
+../Core/Src/test_frames.c:139:13:put_char	2
+../Core/Src/test_frames.c:148:13:put_str	2
+../Core/Src/test_frames.c:155:13:put_u64	3
+../Core/Src/test_frames.c:168:13:put_hex	2
+../Core/Src/test_frames.c:179:6:TestFrames_Init	2
+../Core/Src/test_frames.c:186:19:TestFrames_SendRandomBatch	8
